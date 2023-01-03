@@ -1,0 +1,60 @@
+header {
+    margin-top: 50px;
+    text-align: center;
+    color: #1c2826
+}
+
+body {
+    background-color: #F3CFC6;
+}
+
+.letter {
+    text-align: left;
+    margin-right: 75px;
+    margin-left: 75px;
+    font-family: helvetica;
+    color: #1c2826
+
+}
+
+.facts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c2826
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: #1c2826
+}
+
+.photos {
+    background-color:  #bd8fa8;
+    text-align: center;
+    margin: 20px;
+    border: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.photo {
+    display: inline-block;
+    padding: 45px;
+    background-size: cover;
+    width: 25%;
+    height: 45%;
+    
+}
+
+.tall {
+    background-image: url(../images/tall-selfie);
+    
+}
+
+.old {
+    background-image: url(../images/old-selfie);
+}
+
+.selfie {
+    background-image: url(../images/hayley-selfie);
+}
